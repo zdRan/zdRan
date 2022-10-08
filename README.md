@@ -13,7 +13,7 @@
 
 
 <div align="center">
-    <img  src="https://visitor-badge.glitch.me/badge?page_id=zdRan" />
+    <img  src="https://visitor-badge.glitch.me/badge?page_id=zdRan.zdRan" />
 </div>
 <!---
 zdRan/zdRan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

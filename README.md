@@ -3,8 +3,10 @@
 </div> 
 
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=zdRan.zdRan"/>
-</div >
+
+[![HitCount](https://hits.dwyl.com/zdRan/zdRan.svg?style=flat-square)](http://hits.dwyl.com/zdRan/zdRan)
+    
+</div> 
 
 ## About me   
 - 👋 Hi, I’m @zdRan

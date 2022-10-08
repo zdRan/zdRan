@@ -8,7 +8,7 @@
 </div> 
 <div>
     <img height="190px" src="https://stats.justsong.cn/api/leetcode?username=U2647&cn_username=U+2647"/>
-    <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=zdRan" class="message-body" />
+    <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=zdRan" style="transform: translate(9, 6);" />
 </div>
 <!---
 zdRan/zdRan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

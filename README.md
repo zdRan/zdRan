@@ -10,7 +10,8 @@
 - 🌱 I’m currently learning deeplearning
 - 📫 How to reach me: cm.zdran@foxmail.com
 
-<HR style="FILTER:alpha(opacity=100,finishopacity=0,style=3)" width="80%"color=#987cb9 SIZE=3>
+<hr style="FILTER:alpha(opacity=100,finishopacity=0,style=2)" width="80%"color=#987cb9 SIZE=1> 
+
 
 <div style="float: left; ">
     <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdRan&layout=compact&langs_count=8&theme=gotham" />

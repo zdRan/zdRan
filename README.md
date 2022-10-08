@@ -22,7 +22,6 @@
 <div >
     <img height="170px" src="https://stats.justsong.cn/api/leetcode?username=U2647&cn_username=U2647&theme=dark"/>
     <img height="170px" src="https://stats.justsong.cn/api/juejin?id=3896324938793943&theme=dark"/>
-    <img height="170px" src="https://stats.justsong.cn/api/github?username=zdRan&theme=dark"/>
 
 </div >
                                                                                             

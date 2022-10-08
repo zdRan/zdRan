@@ -3,10 +3,11 @@
 - 🌱 I’m currently learning deeplearning
 <div>
 <div style="float: left; ">
-    <img height="170px" width="50px" src="https://github-readme-stats.vercel.app/api?username=zdRan" />
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=zdRan" />
+     <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdRan&layout=compact&langs_count=8" />
 </div>                                                                  
 <div>
-   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdRan&layout=compact&langs_count=8" />
+  
 </div>
 </div>
 <!---

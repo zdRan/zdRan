@@ -6,7 +6,7 @@
 
 
 
-## About me ![](https://visitor-badge.glitch.me/badge?page_id=zdRan.zdRan "hits")
+## About me   ![](https://visitor-badge.glitch.me/badge?page_id=zdRan.zdRan "hits")
 - 👋 Hi, I’m @zdRan
 - 👀 I’m interested in Java,Python,deeplearning
 - 🌱 I’m currently learning deeplearning

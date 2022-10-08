@@ -7,8 +7,8 @@
     <img height="170px" src="https://github-readme-stats.vercel.app/api?username=zdRan" />
 </div> 
 <div>
-    <img height="190px" src="https://stats.justsong.cn/api/leetcode?username=U2647&cn_username=U+2647"/>
-    <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=zdRan" style="transform: translate(9, 6);" />
+    <img height="190px" src="https://stats.justsong.cn/api/leetcode?username=U2647&cn_username=U+2647" style="box-shadow:none !important"/>
+    <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=zdRan" style="border-color: #dbdbdb;border-radius: 4px;border-style: solid;border-width: 0 0 0 4px;color: #4a4a4a;padding: 1.25em 1.5em;" />
 </div>
 <!---
 zdRan/zdRan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

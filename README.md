@@ -2,9 +2,11 @@
 - 👀 I’m interested in Java,Python,deeplearning
 - 🌱 I’m currently learning deeplearning
 
-
 <div align="center">
     [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zdRan)](https://github.com/anuraghazra/github-readme-stats)
+    
+</div>
+<div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=zdRan" />
 </div>
 <!---

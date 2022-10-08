@@ -7,8 +7,7 @@
     <img height="170px" src="https://github-readme-stats.vercel.app/api?username=zdRan" />
 </div> 
 <div>
-     <img height="170px" src="[https://github-readme-streak-stats.herokuapp.com/?user=zdRan](https://stats.justsong.cn/api/leetcode?username=U2647&cn_username=U+2647
-)" />
+     https://stats.justsong.cn/api/leetcode?username=U2647&cn_username=U+2647
     <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=zdRan" />
 </div>
 <!---

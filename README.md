@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Achuan-2&theme=minimal" />
+    <img src="https://metrics.lecoq.io/zdRan?template=classic&config.timezone=Asia%2FShanghai">
 </div>
 <!---
 zdRan/zdRan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

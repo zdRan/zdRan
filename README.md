@@ -6,12 +6,13 @@
 
 
 
-## About me   ![](https://visitor-badge.glitch.me/badge?page_id=zdRan.zdRan "hits")
+## About me   
 - 👋 Hi, I’m @zdRan
 - 👀 I’m interested in Java,Python,deeplearning
 - 🌱 I’m currently learning deeplearning
 - 📫 How to reach me: cm.zdran@foxmail.com
 
+![](https://visitor-badge.glitch.me/badge?page_id=zdRan.zdRan "hits")
 
 ## About my Github
 <div style="float: left; ">

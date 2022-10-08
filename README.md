@@ -11,9 +11,7 @@
 - 👀 I’m interested in Java,Python,deeplearning
 - 🌱 I’m currently learning deeplearning
 - 📫 How to reach me: cm.zdran@foxmail.com
-<div align="left">
-    <img  src="https://visitor-badge.glitch.me/badge?page_id=zdRan.zdRan" />
-</div>
+
 
 ## About my Github
 <div style="float: left; ">
@@ -23,8 +21,12 @@
   <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=zdRan&theme=gotham"/>
 
 </div> 
+
+## About other data
 <div >
-    <img height="190px" src="https://stats.justsong.cn/api/leetcode?username=U2647&cn_username=U2647"/>
+    <img height="170px" src="https://stats.justsong.cn/api/leetcode?username=U2647&cn_username=U2647&theme=dark"/>
+    <img height="170px" src="https://stats.justsong.cn/api/juejin?id=3896324938793943&theme=dark"/>
+
 </div>
 
 

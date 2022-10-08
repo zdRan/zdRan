@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java,Python,deeplearning
 - 🌱 I’m currently learning deeplearning
 <div>
-<div style="float: left; width:50px">
+<div style="float: left; width:5px">
     <img height="170px" src="https://github-readme-stats.vercel.app/api?username=zdRan" />
 </div>                                                                  
 <div>

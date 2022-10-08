@@ -5,14 +5,14 @@
 <div style="float: left;">
     <img height="170px" src="https://github-readme-stats.vercel.app/api?username=zdRan" />
 </div>
-
-<div>
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=zdRan" />
-</div>
-</div>
-                                                                            
+                                                                         
 <div align="center">
    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdRan&layout=compact&langs_count=8" />
+</div>
+</div>
+ 
+<div>
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=zdRan" />
 </div>
 <!---
 zdRan/zdRan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

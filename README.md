@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @zdRan
 - 👀 I’m interested in Java,Python,deeplearning
 - 🌱 I’m currently learning deeplearning
-- How to reach me:
-
+- 📫 How to reach me: cm.zdran@foxmail.com
 
 <div style="float: left; ">
     <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdRan&layout=compact&langs_count=8&theme=gotham" />

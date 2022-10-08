@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @zdRan
 - 👀 I’m interested in Java,Python,deeplearning
 - 🌱 I’m currently learning deeplearning
-- 
+- How to reach me:
+
+
 <div style="float: left; ">
     <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdRan&layout=compact&langs_count=8&theme=gotham" />
     <img height="170px" src="https://github-readme-stats.vercel.app/api?username=zdRan&theme=gotham" />
